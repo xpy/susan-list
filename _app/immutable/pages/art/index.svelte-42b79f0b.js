@@ -1,0 +1,1 @@
+import{S as s,i as e,s as r}from"../../chunks/index-e8096d40.js";function o(){return{status:302,redirect:"/art/0"}}class l extends s{constructor(t){super(),e(this,t,null,null,r,{})}}export{l as default,o as load};
