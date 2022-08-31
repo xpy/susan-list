@@ -1,1 +1,0 @@
-import{S as t,i as e,s as o}from"../../chunks/index-e8096d40.js";function a(){return{status:302,redirect:"/personal-work/0"}}class l extends t{constructor(s){super(),e(this,s,null,null,o,{})}}export{l as default,a as load};
